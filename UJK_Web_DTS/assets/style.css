@@ -1,0 +1,78 @@
+.containerForm{
+    margin: 30px auto;
+    border: 1px solid rgb(201, 201, 201);
+    padding: 50px;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.containerForm:hover{
+    border: 1px solid #138496;
+}
+
+.containerTabel {
+    margin-top: 30px;
+}   
+
+.close{
+    position: relative;
+    margin: -30px -5%;
+}
+
+.close:focus {
+    outline: none;
+}
+
+.back {
+    font-weight: bold;
+    position: absolute;
+    margin: -30px -2%;
+    transform: rotate(90deg);
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000 !important;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.col {
+    padding: 0px 50px 0px 50px;
+}
+
+/* css tabelNilai.php */
+.cari {
+    width: 400px;
+    float: right;
+    padding-top: 20px;
+}
+
+/* css search.php */
+.search {
+    width: 50%;
+    margin: 200px auto;
+}
+
+.tombol {
+    margin-left: 225px;
+}
+
+.utama h1 {
+    color: white;
+    margin-top: -100px;
+}
+
+.utama .btn-outline-info {
+    margin-left: 44%;
+    background-color: #fff;
+}
+
+.cover {
+    background-color: #138496;
+    height: 320px;
+}
+
+/*css form login*/
